@@ -17,7 +17,7 @@
         <a href="PizzaOrderForm.html">PizzaOrderForm</a> <br>
     </div>
 
-    <form>
+    <form  action="http://www.blackgoosebistro.com/pizza.php" method="POST">
         <fieldset>
             <legend>your order here</legend> 
             <h1>Black Goose Bistro || On Demand-Pizza</h1>
@@ -28,10 +28,10 @@
 
             <fieldset>
                 <legend>Your info please</legend>
-                <label>Name:</label><input type="Text" minlength="2" maxlength="25"> <br>
-                <label>Adress:</label><input type="text" minlength="2" maxlength="25"> <br>
-                <label>Phone:</label><input type="number" minlength="2" maxlength="10"> <br>
-                <label>Email:</label><input type="email" minlength="2" maxlength="35"> <br>
+                <label>Name:</label><input type="Text"  name="customername" minlength="2" maxlength="25"> <br>
+                <label>Adress:</label><input type="text" name="" minlength="2" maxlength="25"> <br>
+                <label>Phone:</label><input type="number" name="" minlength="2" maxlength="10"> <br>
+                <label>Email:</label><input type="email" name="" minlength="2" maxlength="35"> <br>
                 <label> Delivery info</label> <br>  
                 <textarea placeholder="Ener text here"></textarea>
             </fieldset>
@@ -41,7 +41,7 @@
             </h2>
             <h3>Pizza specs</h3>
             <fieldset>
-                <legend>Crust(Choose one)</legend>
+                <legend>Crust<i>(Choose one)</i></legend>
                 <label><input type="radio" name="crust"> Classic white</label> <br>
                 <label><input type="radio" name="crust"> Multugrain</label> <br>
                 <label><input type="radio" name="crust"> Cheese-stuffed crust</label> <br>
@@ -50,13 +50,13 @@
 
             <fieldset>
                 <legend>Topping<i>(Pick as many as you want)</i></legend>
-                <label><input type="checkbox" name="topping">Red sauce</label> <br>
-                <label><input type="checkbox" name="topping"> White sauce</label> <br>
-                <label><input type="checkbox" name="topping"> Mozzarella</label> <br>
-                <label><input type="checkbox" name="topping"> Pepperoni</label> <br>
-                <label><input type="checkbox" name="topping">Mushroom</label> <br>
-                <label><input type="checkbox" name="topping"> Peppers</label> <br>
-                <label><input type="checkbox" name="topping"> Anchovies</label> <br>
+                <label><input type="checkbox" name="Toppings">Red sauce</label> <br>
+                <label><input type="checkbox" name="Toppings"> White sauce</label> <br>
+                <label><input type="checkbox" name="Toppings"> Mozzarella</label> <br>
+                <label><input type="checkbox" name="Toppings"> Pepperoni</label> <br>
+                <label><input type="checkbox" name="Toppings">Mushroom</label> <br>
+                <label><input type="checkbox" name="Toppings"> Peppers</label> <br>
+                <label><input type="checkbox" name="Toppings"> Anchovies</label> <br>
             </fieldset>
 
 
