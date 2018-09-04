@@ -1,2 +1,6 @@
 FX trader whit Igs API
 nutrichek
+orm nuget
+cmc trading summary
+
+learn pyton 

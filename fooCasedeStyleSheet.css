@@ -1,0 +1,105 @@
+.one p
+{
+    color: red;
+} 
+
+.two p.blue
+{
+    color: blue;
+}
+
+#blue
+{
+    color : blue;
+}
+
+.three p
+{
+    color: red;
+}
+
+.four
+{
+    color : blue;
+}
+
+.five [title~="blue"]
+{
+    color : blue
+}
+.five [title~="red"]
+{
+    color : red;
+}
+.five
+{
+    color : red;
+}
+
+[class*="blue"] {
+    color : blue;
+}
+.six
+{
+    color : red;
+}
+.seven
+{
+    color : red;
+}
+
+.eight li
+{
+    color : blue;
+}
+
+.eight ul li
+{
+    color : red;
+}
+
+.nine 
+{
+    color : red;
+}
+.nine [title*="blue"] {
+    color : blue;
+}
+
+ul.ten
+{
+    color : red;
+}
+ul.ten li:last-child
+{
+    color :blue;
+}
+
+.eleven
+{
+    color: blue;
+}
+
+.eleven :nth-child(odd)
+{
+    color:red;
+}
+
+ul.twelve
+{
+    color : red;
+}
+ul.twelve :nth-child(2n+3)
+{
+    color :blue;
+}
+.thirteen
+{
+    color: blue;    
+    
+}
+.thirteen .red
+{
+    color :red;
+}
+
