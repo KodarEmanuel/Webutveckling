@@ -1,33 +1,80 @@
 ﻿Trading
 
-Gör en trading plan. Max risk? osv. 
-Lyssna på mikrit igen för inspo. 
-Läs hans blog. Medlemsskap?  
+Trade manegment strategi 1
 
-Gör en sammanfattningsapp/excel som sammanställer cmc och nordnet. 
-
-(Måla upp en klarare struktur för ORM projektet.) 
-
-Rules: 
-Never look for a trade! Wait for it to come. 
-Never EVER haste!!
-Fokus on the loss potensial before the win potensial.  
-
-
-Trade checklinst:
-1. Are you risking a fraction of your trading capital? 1%
-2. Are your trading the trend ? Good luck : You better have a very good reason
-3 Are you trading (https://www.stock-options-made-easy.com/the-value-area.html)
-4. Do you know your entry? 
-5 Do you know ehre to exit if wrong?
-6 Do you know where to exit if right? 
-7 Do you know hoe to manage your trade. Like scale upp or down etc. 
-8 are you following a plan? 
+* risk 1%
+* peal 25% at 1:1.75 Risk:Reward
+	75 % left
+* move stop to 1:1 Risk Reward.
+* peal 25% at 1:2.5
+	50% left
+* move stop to 1:1.75
+* peal 25%  at 2.5
+* Let the remaing 25% ride, move stop along the way, step 1:0.5 risk.
 
 
-* Ema rule
-* No Lagre/obious suport or resistance argung against your belive (if you break this this rule youe have lowe prob to sucsess. Time your entry and risk accrodinlyy)
-* No lage moves, eg. flashchrash.
-* Should bulid up slowly to the break.
-* If the dominat trend is in the same diraction you will have lagre porb aswell. 
-' Do i got any edge_
+Trade manegment strategi 2
+
+* Risk 1%
+* peal 50% at 1:2
+  50% left
+* move stop to 1:1
+* peal 25% at 1:3
+  25% left
+* let 25% ride, move stop, step 1:0.5
+
+
+Regler:
+Leta aldrig efter läge, vänta på det.
+Hetsa alldrig. Har du missat ett läge så vänta på nästa.
+Fokosera på processen inte på pengarna. 
+
+
+Morgonrutin:
+Vaken 90 min innan öppning kl 8.
+Gå ut och gå.
+Meditera.
+Klä dig stiligt. Du är på ett jobb.(Känns mer seriöst)
+Koka kaffe.
+läs nyheter.
+Svara på frågor.
+Upprepa mantra.
+
+
+Frågr att ställa mig på morgin innan öppning:
+* Är mitt sinne stilla?
+* Vad är dagens mål?
+ (Prosessen)
+
+
+Mantra:
+Jag är en vinnare
+Jag är framgång
+Jag ska föjla min plan
+Jag är en bra tradör
+
+
+CheckLista inann trade:
+ * Risk < 1% * kapital?
+ * Stämmer EMA-reglen? 
+ * Har jag en trade manegment strategi?
+ * Har jag edge?
+ * Berätta varför du ta possition.
+
+
+EMA-Regel
+
+* Inga tydliga/starka stöd/motstond som talar emot din markadstro. 1
+* inga plötsliga händelser, stora moves. eg, flashkrash, nyhet etc får vara anledning till att ema regeln blir sann-
+
+
+1) (Om jag brytr mot denna regel så är sannolikheten att lyckas lägre. 
+ Men om stödet/motståndet bryts finns det goda möjligheter till en fin uppsida.
+Alltså sannolikhetaen att få ätt minskar men rewarden ökar. Om du tar traden 
+gör det med 0.5% * kapital i risk)
+
+
+Ema iaktagelser? kommer förmodligen att ändras.
+* Best case. Trendn ändras stabilt och och byggs upp  långsamt innan ema blir sann
+* Om dominata trenden är i samma riktning är det tt plus.
+* mindre upplösningar kan vara vägvisare till större upplösningar. Så ta rad två med en nypa salt.
