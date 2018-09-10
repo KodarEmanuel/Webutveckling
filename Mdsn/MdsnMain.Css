@@ -1,0 +1,28 @@
+
+.Header
+{
+    border-style: solid;
+    border-color: red;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+#mdnLogo
+{
+    flex-grow: 1;
+    size: 100%;
+}
+#Header-Nav
+{
+    flex-grow: 4;
+}
+#Gitsi
+{
+    flex-grow: 1;
+    size: 100%;
+}
+#SearchImg
+{
+    size: 100%;
+    flex-grow: 1;
+}
