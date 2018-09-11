@@ -2,27 +2,52 @@
 .Header
 {
     border-style: solid;
-    border-color: red;
+    border-color: black;
     display: flex;
     flex-direction: row;
-    align-content: center;
+    padding: 10px;
 }
 #mdnLogo
 {
-    flex-grow: 1;
     size: 100%;
+    border-style: solid;
+    border-color: red;
+    padding: 10px;
+    flex-grow: 0.5;
+    width: 219px;
+
 }
 #Header-Nav
 {
-    flex-grow: 4;
-}
-#Gitsi
-{
-    flex-grow: 1;
+    padding: 10px;
     size: 100%;
+    border-style: solid;
+    border-color: green;
+    flex-grow: 3;
 }
-#SearchImg
+#signin
 {
+    padding: 10px;
     size: 100%;
+    border-style: solid;
+    border-color: blue;
     flex-grow: 1;
+}
+#icon-search
+{
+    padding: 10px;
+    border-style: solid;
+    border-color: peru;
+    flex-grow: 1;
+}
+#icon-github, #icon-search
+{
+    width: 25px;
+    height: 25px;
+}
+#signin p
+{
+    float: left;
+    margin-top: 5;
+    margin-right: 5;
 }
